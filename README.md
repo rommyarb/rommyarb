@@ -4,4 +4,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=rommyarb&theme=transparent&langs_count=10&layout=pie&card_width=500)
 
-![rommyarb's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yus_ham&theme=transparent&card_width=500)
+![rommyarb's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rommyarb&theme=transparent&card_width=500)
