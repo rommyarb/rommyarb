@@ -1,4 +1,4 @@
-<img alt="Github readme banner" src="https://raw.githubusercontent.com/rommyarb/rommyarb/main/dr_house_typing.webp" style="width:100%;height:auto" />
+<img alt="Github readme banner" src="https://raw.githubusercontent.com/rommyarb/rommyarb/main/dr_house_typing.webp" style="width:100%;height:auto;" />
 
 ### Hi,
 🧑🏻‍💻 I’m a Software Engineer at [Media Icon](https://multimediaicon.com)<br/>
